@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<center>
+<img src="{{site.baseurl}}/assets/img/ashish_vinayak-circle.png" width="200" height="200">
+</center>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<br><br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, my name is Ashish. I am a computational scientist living between Wuppertal and Berlin in Germany. 
 
+Besides doing multiphase simulations, I interest myself in software development and climate science.
+Additionally, I like exploring hidden interests like Jekyll.
 
-[jekyll-organization]: https://github.com/jekyll
+These pages are under construction.
+
+You can contact me via Xing, LinkedIn and Instagram at the moment. 
