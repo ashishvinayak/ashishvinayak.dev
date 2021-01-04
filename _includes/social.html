@@ -1,0 +1,12 @@
+<class="social-media-list">
+  
+  {%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><i class="fa fa-github"></i></a>{%- endif -%}
+  &nbsp; &nbsp; &nbsp;
+  {%- if site.xing_username -%}<a href="https://xing.com/profile/{{ site.xing_username| cgi_escape | escape }}"><i class='fa fa-xing'></i></a>{%- endif -%}
+  &nbsp; &nbsp; &nbsp;
+  {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><i class="fa fa-linkedin"></i></a>{%- endif -%}
+  &nbsp; &nbsp; &nbsp;
+  {%- if site.instagram_username -%}<a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><i class="fa fa-instagram"></i></a>{%- endif -%}
+  &nbsp; &nbsp; &nbsp;
+  {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
+</class>
