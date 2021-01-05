@@ -12,9 +12,9 @@ permalink: /about/
 
 Hi, my name is Ashish. I am a computational scientist living between Wuppertal and Berlin in Germany. 
 
-Besides doing multiphase simulations, I interest myself in software development and climate science.
+Besides modeling fluid simulations, I interest myself in software development, climate science and bouldering.
 Additionally, I like exploring hidden interests like Jekyll.
 
 These pages are under construction.
 
-You can contact me via Xing, LinkedIn and Instagram at the moment. 
+You can contact me via Xing, LinkedIn and Instagram. 
