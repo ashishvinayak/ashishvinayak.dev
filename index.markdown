@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+This page is under construction. 
+For contact information, please check the About page
