@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - portfolio.markdown
+  - index.markdown
   - about.markdown
   
 # Exclude from processing.
