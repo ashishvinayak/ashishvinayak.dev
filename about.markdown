@@ -10,11 +10,11 @@ permalink: /about/
 
 <br><br>
 
-Hi, my name is Ashish. I am a computational scientist living between Wuppertal and Berlin in Germany. 
+Hi, I'm Ashish. I am a computer engineer living in Berlin, Germany. 
 
-Besides modeling fluid simulations, I interest myself in software development, climate science and bouldering.
-Additionally, I like exploring hidden interests like Jekyll.
+I have spent a bunch of my time modelling simulations of processes such as combustion, pyrolysis (melting) and collisions.
+Additionally, I have worked a bit in the IoT department developing dashboards and content management systems.
 
-These pages are under construction.
+Besides information sciences, I interest myself in software architecture, climate science and bouldering.
 
 You can contact me via Xing, LinkedIn and Instagram. 
