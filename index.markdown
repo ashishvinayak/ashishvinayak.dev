@@ -10,12 +10,18 @@ title: About
 
 <br><br>
 
-Hi, I'm Ashish. I am a computer engineer living in Berlin, Germany. 
+<h2>Hey, I'm Ashish!</h2> 
 
-I have spent a bunch of my time modelling simulations of processes such as combustion, pyrolysis (melting) and collisions.
-Additionally, I have worked a bit in the IoT department developing dashboards and content management systems.
+<div align="justify">
+I am a computer engineer living in Berlin, Germany. 
+In 2014, I moved from Germany from India with a passion to work in technology to solve real world problems.
+I have written code all my life, starting in the 8th grade with HTML. My passion in programming really took off during my masters program
+where I was able to make Mathematics and Computers meet.
 
-Besides information sciences, I interest myself in software architecture, climate science and bouldering.
-
-You can contact me via Xing, LinkedIn and Instagram. 
-
+<br><br>
+I am a quick learner, and best learn by doing. I believe in writing modular, minimal and maintainable code 
+and pride myself in being able to transfer knowledge between various topics to enable myself to look at a bigger picture.
+Knowledge should be free and accessible to all, I have tried to keep my work open-source where ever I have been allowed to do so. 
+<br><br>
+Apart from this, I find a lot of joy in meeting new people, bouldering (a rock climbing sport), guitars, climate science, and food.
+</div>
