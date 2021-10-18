@@ -26,9 +26,17 @@
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+      <div class="footer-col footer-col-2">
+      <!-- <p>{{- site.description | escape -}}</p> --!>
       </div>
+        
+      {% if page.url == "/" %}
+      <div class="footer-col footer-col-3">
+        <a href="https://hits.seeyoufarm.com" style="float:right">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fashishvinayak.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+        </a> 
+      </div>
+    {% endif %}
     </div>
 
   </div>
