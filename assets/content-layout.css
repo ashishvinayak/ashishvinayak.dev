@@ -8,6 +8,29 @@
     margin: 10pt 0pt;
 }
 
+.tech-list {
+    display: flex;
+    font-size: larger;
+    width: 100%;
+    align-items: stretch;
+}
+
+.tech-list * {
+    /* width: 60%; */
+    margin: 4pt 0;
+    flex: 1;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+    .project {
+        flex-direction: column;
+    }
+    .tech-list  {
+        flex-direction: column; 
+    }
+}
+
 .project .project-text {
     padding-right: 20pt;
     padding-left: 20pt;
@@ -57,4 +80,14 @@ hr {
     border-width: 1px;
     align-self: center;
     margin: 10pt 0;
+}
+
+figcaption {
+    font-weight: bold;
+    color: grey;
+    font-size: 14px;
+}
+
+ul {
+    list-style-position: inside;
 }

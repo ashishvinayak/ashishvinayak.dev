@@ -48,7 +48,10 @@ title: Portfolio
         </div>
     </div>
     <div class="project-image">
-        <img src="{{site.baseurl}}/assets/img/droplet-particle-collisions.png">
+        <figure>
+            <img src="{{site.baseurl}}/assets/img/droplet-particle-collisions.png">
+            <figcaption>Collision: experiment (top) vs simulation (bottom)</figcaption>
+        </figure>
     </div>
 </div>
 <hr>
@@ -96,7 +99,10 @@ title: Portfolio
         </div>
     </div>
     <div class="project-image">
-        <img src="{{site.baseurl}}/assets/img/fire-simulation.png">
+        <figure>
+            <img src="{{site.baseurl}}/assets/img/fire-simulation.png">
+            <figcaption style="margin-top: 6pt;">Simulation of burning of plastic</figcaption>
+        </figure>
     </div>
 </div>
 <hr>
