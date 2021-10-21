@@ -102,12 +102,12 @@ a.button {
     appearance: button;
 
     text-decoration: none;
-    color: grey;
+    color: inherit;
     font-size: larger;
-    font-weight: lighter;
-    border: 1px solid darkgrey;
-    box-shadow: 1px 1px darkgrey;
+    font-weight: normal;
+    border: 1px solid black;
+    box-shadow: 2px 2px black;
     width: max-content;
-    padding: 8pt;
+    padding: 13pt;
 
 }

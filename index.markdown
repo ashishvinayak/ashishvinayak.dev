@@ -23,6 +23,10 @@ I think that, knowledge should be free and accessible to all. I have tried to ke
 Apart from work, I find a lot of joy in meeting new people, bouldering (a rock climbing sport), guitars, climate science, and trying out new food.
 </div>
 <br> <br>
+<div align="center" style="margin: 20pt 0;">
+<a class="button bold" href="https://www.linkedin.com/in/ashishvinayak/">GET IN TOUCH</a>
+</div>
+
 <h3 style="margin-top: 8pt;">Technologies I've worked with <i class="fa fa-laptop-code"></i></h3>
 
 <div align="left" class="tech-list">
