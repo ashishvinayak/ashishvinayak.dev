@@ -28,6 +28,10 @@
     .tech-list  {
         flex-direction: column; 
     }
+    .project-image {
+        width: 250pt;
+        height: auto;
+    }
 }
 
 .project-image {
