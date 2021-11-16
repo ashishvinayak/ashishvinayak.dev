@@ -53,18 +53,6 @@ title: Portfolio
 <hr>
 
 <div class="project">
-    <div class="project-image">
-        <figure>
-            <img src="{{site.baseurl}}/assets/img/horz1.png" style="width: 70%; height: 300pt;">
-            <figcaption>Sensitivity Analysis (Various parameters)</figcaption>
-        </figure>
-        <figure>
-            <img src="{{site.baseurl}}/assets/img/hfsensi.png" style="width: 70%; height: 300pt;">
-            <figcaption>Sensitivity Analysis II (Correct parameters)</figcaption>
-        </figure>
-
-    </div>
-
     <div class="project-title">
         A Framework for Statistical Parameter Optimisation
     </div>
