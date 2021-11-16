@@ -12,7 +12,7 @@ title: Portfolio
         June - October 2021
     </div>
     <div class="tools">
-        <div>Javascript</div><div>PHP</div><div>PostgreSQL</div><div>Lighttpd</div><div>Linux</div>
+        <div>Javascript</div><div>PHP</div><div>PostgreSQL</div><div>Lighttpd</div><div>Linux</div><div>GIT</div>
     </div>
     <div class="project-summary">
         At 5micron GmbH, Berlin, I was a part of a team of three and was responsible for the development of a website that enabled 
@@ -38,7 +38,7 @@ title: Portfolio
         April 2018 - April 2021
     </div>
     <div class="tools">
-        <div>C++</div><div>Python</div><div>Linux</div><div>OpenFOAM</div>
+        <div>C++</div><div>Python</div><div>Linux</div><div>OpenFOAM</div><div>GIT</div>
     </div>
     <div class="project-summary">
         An energy efficient cleaning process would enable removal of particles
@@ -53,6 +53,18 @@ title: Portfolio
 <hr>
 
 <div class="project">
+    <div class="project-image">
+        <figure>
+            <img src="{{site.baseurl}}/assets/img/horz1.png" style="width: 70%; height: 300pt;">
+            <figcaption>Sensitivity Analysis (Various parameters)</figcaption>
+        </figure>
+        <figure>
+            <img src="{{site.baseurl}}/assets/img/hfsensi.png" style="width: 70%; height: 300pt;">
+            <figcaption>Sensitivity Analysis II (Correct parameters)</figcaption>
+        </figure>
+
+    </div>
+
     <div class="project-title">
         A Framework for Statistical Parameter Optimisation
     </div>
@@ -60,7 +72,7 @@ title: Portfolio
         November 2017 - February 2018
     </div>
     <div class="tools">
-        <div>Python</div><div>Linux</div>
+        <div>Python</div><div>Linux</div><div>GIT</div>
     </div>
 
     <div align="justify" class="project-summary">
