@@ -12,14 +12,13 @@ title: Portfolio
         June - October 2021
     </div>
     <div class="tools">
-        <div>Javascript</div><div>PHP</div><div>PostgreSQL</div><div>Lighttpd</div><div>Linux</div><div>GIT</div>
+        <div>Javascript</div><div>AJAX</div><div>PHP</div><div>PostgreSQL</div><div>Lighttpd</div><div>Linux</div><div>GIT</div>
     </div>
     <div class="project-summary">
-        At 5micron GmbH, Berlin, I was a part of a team of three and was responsible for the development of a website that enabled 
-        users to register themselves and access specific parts based on their privileges in the client's organization. I was additionally tasked with 
-        developing a Content Management System (CMS) to allow users to manage their IoT devices such as sensors.
-        The project enabled me to design a highly modular database architecture for User- and Content Management and exposed me to the development of 
-        Restful APIs in PHP and Javascript. 
+        At 5micron GmbH, Berlin, I was a part of a team of three developers and was responsible for the development of a User- and Content Management
+        System for the control of IoT Devices. The primary task was to design a user-registration and login system for which I employed Json Web Tokens (JWT) 
+        as the authorisation technique. Additionally, the control of IoT devices allowed creating and deleting devices, on-the-fly label management for the devices and assigning 
+        users to labels. The project enabled me to design a highly modular database architecture exposed me to the development of Restful APIs using PHP and Javascript. 
     </div>
 </div>
 <hr>
