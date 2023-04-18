@@ -32,8 +32,8 @@ Apart from work, I find a lot of joy in meeting new people, bouldering (a rock c
 </div>
 <div>
 <ul>
-    <li> Boost </li>
-    <li> STL </li>
+    <li> Boost, STL </li>
+    <li> GIT </li>
 </ul>
 </div>
 
