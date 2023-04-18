@@ -21,12 +21,33 @@ I think that, knowledge should be free and accessible to all. I have tried to ke
 <br><br>
 Apart from work, I find a lot of joy in meeting new people, bouldering (a rock climbing sport), guitars, climate science, and trying out new food.
 </div>
-<br> <br>
-<div align="center" style="margin: 20pt 0;">
-<a class="button bold" href="https://www.linkedin.com/in/ashishvinayak/">GET IN TOUCH</a>
+<br><br>
+<h3 style="margin-top: 20pt;">My Current Techstack <i class="fa fa-laptop-code"></i></h3>
+<div align="left" class="tech-list">
+<div>
+<ul>
+    <li> C++17 </li>
+    <li> SQL </li>
+</ul>
+</div>
+<div>
+<ul>
+    <li> Boost </li>
+    <li> STL </li>
+</ul>
 </div>
 
-<h3 style="margin-top: 8pt;">Technologies I've worked with <i class="fa fa-laptop-code"></i></h3>
+<div>
+<ul>
+    <li> Qt5.15 </li>
+    <li> Windows </li>
+</ul>
+</div>
+
+</div>
+
+
+<h3 style="margin-top: 12pt;">Technologies I've worked with <i class="fa fa-glasses"></i></h3>
 
 <div align="left" class="tech-list">
 <div>
@@ -66,3 +87,9 @@ Apart from work, I find a lot of joy in meeting new people, bouldering (a rock c
 </div>
 </div>
 </div>
+
+<br> <br>
+<div align="center" style="margin: 20pt 0;">
+<a class="button bold" href="https://www.linkedin.com/in/ashishvinayak/">GET IN TOUCH</a>
+</div>
+

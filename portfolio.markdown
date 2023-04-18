@@ -6,19 +6,40 @@ title: Portfolio
 <div class="project-list">
 <div class="project">
     <div class="project-title">
-        An IoT Dashboard for User and Content Management
+        Software Developer at IVU Traffic Technologies, Berlin
     </div>
     <div class="project-duration">
-        June - October 2021
+        February 2022 - Current
     </div>
     <div class="tools">
-        <div>Javascript</div><div>AJAX</div><div>PHP</div><div>PostgreSQL</div><div>Lighttpd</div><div>Linux</div><div>GIT</div>
+        <div>C++17</div><div>Qt5.15</div><div>boost</div><div>SQL</div><div>Windows</div><div>Git</div>
+    </div>
+    <div class="project-summary">
+        At IVU Traffic Technologies, Berlin, I am a part of a team of 20 developers, who are jointly responsible for writing and maintaining modern C++ software
+        for the planning and disposition of public transport vehicles. I, specifically work in a subteam that enables the planning of future tasks for vehicles
+        upon arrival at a depot. Besides this, I have taken a strong interest in becoming competent in Qt, and worked closely with the UX expert to improve the interface 
+        by implementing several complex View functionalities within the software.
+        The work at IVU has exposed me to an extremely large codebase, and an outstanding design architecture, enabling me to think and write better, and more maintenable code.
+    </div>
+</div>
+<hr>
+
+<div class="project-list">
+<div class="project">
+    <div class="project-title">
+        Software Developer at 5micron GmbH, Berlin
+    </div>
+    <div class="project-duration">
+        June 2021 - October 2021
+    </div>
+    <div class="tools">
+        <div>Javascript</div><div>AJAX</div><div>PHP</div><div>PostgreSQL</div><div>Linux</div><div>GIT</div>
     </div>
     <div class="project-summary">
         At 5micron GmbH, Berlin, I was a part of a team of three developers and was responsible for the development of a User- and Content Management
         System for the control of IoT Devices. The primary task was to design a user-registration and login system for which I employed Json Web Tokens (JWT) 
-        as the authorisation technique. Additionally, the control of IoT devices allowed creating and deleting devices, on-the-fly label management for the devices and assigning 
-        users to labels. The project enabled me to design a highly modular database architecture exposed me to the development of Restful APIs using PHP and Javascript. 
+        as the authorisation technique. Additionally, the control of IoT devices allowed creating and deleting devices, on-the-fly label management for the devices and user 
+        users management. The project enabled me to design a modular database architecture and exposed me to the development of Restful APIs using PHP and Javascript. 
     </div>
 </div>
 <hr>
@@ -31,7 +52,7 @@ title: Portfolio
         </figure>
     </div>
     <div class="project-title">
-        Particle-Droplet Collisions
+        Research Scientist at University of Wuppertal
     </div>
     <div class="project-duration">
         April 2018 - April 2021
@@ -53,7 +74,7 @@ title: Portfolio
 
 <div class="project">
     <div class="project-title">
-        A Framework for Statistical Parameter Optimisation
+        Research Scientist at Forschungszentrum Jülich
     </div>
     <div class="project-duration">
         November 2017 - February 2018
@@ -79,7 +100,7 @@ title: Portfolio
         </figure>
     </div>
     <div class="project-title" style="margin-top: 8pt;">
-        Simulation of Melting and Combustion
+        Research Assistant at Forschungszentrum Jülich & University of Wuppertal
     </div>
     <div class="project-duration">
         February 2017 - October 2017
