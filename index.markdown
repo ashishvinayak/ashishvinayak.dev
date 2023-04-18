@@ -92,4 +92,3 @@ Apart from work, I find a lot of joy in meeting new people, bouldering (a rock c
 <div align="center" style="margin: 20pt 0;">
 <a class="button bold" href="https://www.linkedin.com/in/ashishvinayak/">GET IN TOUCH</a>
 </div>
-
